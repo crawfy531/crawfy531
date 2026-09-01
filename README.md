@@ -1,8 +1,6 @@
 
 # Jennifer Crawford
 
-Hello, GitHub! 👋
-
 I'm Jennifer Crawford, a student at Brigham Young University-Idaho interested in computer science. Welcome to my GitHub profile!
 
 About Me
