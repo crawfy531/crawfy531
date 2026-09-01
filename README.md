@@ -18,7 +18,7 @@ Currently seeking an internship opportunities to contribute to real-world softwa
 - Teamwork: group project development, GitHub version control, organized team meetings, task coordination, leadership in project components
 
 
-## Let's Connect!
+## Let's Connect
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/jennifer-crawford-ab8027258/) profile
 
